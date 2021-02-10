@@ -6,3 +6,6 @@
 	path = third_party/android/libunwind
 	url = git://git.sv.gnu.org/libunwind.git
 	branch = master
+[submodule "third_party/common/kubazip"]
+	path = third_party/common/kubazip
+	url = https://github.com/kuba--/zip
